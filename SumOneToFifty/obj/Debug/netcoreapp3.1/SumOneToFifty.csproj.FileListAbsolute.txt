@@ -1,0 +1,13 @@
+C:\repos\SumOneToFifty\SumOneToFifty\bin\Debug\netcoreapp3.1\SumOneToFifty.exe
+C:\repos\SumOneToFifty\SumOneToFifty\bin\Debug\netcoreapp3.1\SumOneToFifty.deps.json
+C:\repos\SumOneToFifty\SumOneToFifty\bin\Debug\netcoreapp3.1\SumOneToFifty.runtimeconfig.json
+C:\repos\SumOneToFifty\SumOneToFifty\bin\Debug\netcoreapp3.1\SumOneToFifty.runtimeconfig.dev.json
+C:\repos\SumOneToFifty\SumOneToFifty\bin\Debug\netcoreapp3.1\SumOneToFifty.dll
+C:\repos\SumOneToFifty\SumOneToFifty\bin\Debug\netcoreapp3.1\SumOneToFifty.pdb
+C:\repos\SumOneToFifty\SumOneToFifty\obj\Debug\netcoreapp3.1\SumOneToFifty.AssemblyInfoInputs.cache
+C:\repos\SumOneToFifty\SumOneToFifty\obj\Debug\netcoreapp3.1\SumOneToFifty.AssemblyInfo.cs
+C:\repos\SumOneToFifty\SumOneToFifty\obj\Debug\netcoreapp3.1\SumOneToFifty.csproj.CoreCompileInputs.cache
+C:\repos\SumOneToFifty\SumOneToFifty\obj\Debug\netcoreapp3.1\SumOneToFifty.dll
+C:\repos\SumOneToFifty\SumOneToFifty\obj\Debug\netcoreapp3.1\SumOneToFifty.pdb
+C:\repos\SumOneToFifty\SumOneToFifty\obj\Debug\netcoreapp3.1\SumOneToFifty.genruntimeconfig.cache
+C:\repos\SumOneToFifty\SumOneToFifty\obj\Debug\netcoreapp3.1\SumOneToFifty.csprojAssemblyReference.cache
